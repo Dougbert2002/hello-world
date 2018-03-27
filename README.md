@@ -1,3 +1,3 @@
 # hello-world
 Educational repository
-Just another college professor (commit)
+Just another college professor
